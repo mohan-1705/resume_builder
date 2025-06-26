@@ -58,7 +58,7 @@ Includes Google Sign-In, email/password auth, multiple template styles (Classica
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Debaraj-stha/resume-builder.git
+[git clone https://github.com/mohan-1705/resume_builder.git]
 cd resume-builder
 ```
 
@@ -111,7 +111,7 @@ uvicorn main:app --reload
 npm run dev
 ```
 
-Open `http://localhost:5173` (or your configured port) to access the app.
+Open `http://localhost:3000` (or your configured port) to access the app.
 
 ---
 
@@ -180,13 +180,13 @@ resume-builder/
 
 ## 🧑‍💻 Author
 
-Built with ❤️ by [Debaraj-stha](https://github.com/Debaraj-stha/)
+Built with ❤️ by [mohan-1705](https://github.com/mohan-1705)
 
 ---
 
 ## Server repository
 
-[Server](https://github.com/Debaraj-stha/resume-builder/tree/server)
+[Server](https://github.com/mohan-1705/resume_builder_server.git)
 
 ---
 
