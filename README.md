@@ -111,7 +111,7 @@ uvicorn main:app --reload
 npm run dev
 ```
 
-Open `http://localhost:3000` (or your configured port) to access the app.
+Open `http://localhost:5173` (or your configured port) to access the app.
 
 ---
 
