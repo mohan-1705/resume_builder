@@ -58,7 +58,7 @@ Includes Google Sign-In, email/password auth, multiple template styles (Classica
 ### 1. Clone the repo
 
 ```bash
-[git clone https://github.com/mohan-1705/resume_builder.git]
+[git clone https://github.com/mohan-1705/resume_builder_main.git]
 cd resume-builder
 ```
 
